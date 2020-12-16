@@ -1,0 +1,5 @@
+This is trainig for my repository
+
+1) Admin
+2) Read
+3) Write
